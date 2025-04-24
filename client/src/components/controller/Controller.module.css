@@ -1,0 +1,32 @@
+.controller {
+	width: 100vw;
+	height: 100px;
+
+	background: #bbff77;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.episode,
+.bestScore,
+.speed,
+.speedValue {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bestScore {
+}
+
+.speedContainer {
+	display: flex;
+	justify-content: space-between;
+	gap: 15px;
+}
+
+.speed {
+}
+
+.speedValue {
+}
